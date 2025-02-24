@@ -1,0 +1,82 @@
+{
+  "common": {
+    "growth": "Growth",
+    "newOrder": "Novo Pedido",
+    "contact": "Contato",
+    "cart": "Carrinho",
+    "tutorials": "Tutoriais",
+    "settings": "Configurações"
+  },
+  "home": {
+    "title": "Impulsione sua presença nas redes sociais com",
+    "subtitle": "Obtenha seguidores reais, curtidas e engajamento para suas redes sociais",
+    "whyChooseUs": "Por que nos escolher?",
+    "stats": {
+      "completedOrders": "pedidos concluídos",
+      "support": "suporte",
+      "rating": "avaliação",
+      "freeServices": "Serviços gratuitos",
+      "qualityServices": "Serviços de qualidade e econômicos",
+      "happyCustomers": "clientes satisfeitos"
+    }
+  },
+  "newOrder": {
+    "title": "Novo Pedido",
+    "selectPlatform": "Selecione sua plataforma preferida",
+    "category": "Categoria",
+    "selectCategory": "Selecione uma categoria",
+    "service": "Serviço",
+    "selectService": "Selecione um serviço",
+    "link": "Link",
+    "enterLink": "Digite seu link",
+    "quantity": "Quantidade",
+    "charge": "Valor Total",
+    "addToCart": "Adicionar ao Carrinho",
+    "viewCart": "Ver Carrinho",
+    "addedSuccess": "Adicionado ao carrinho com sucesso!"
+  },
+  "cart": {
+    "title": "Carrinho de Compras",
+    "empty": {
+      "title": "Seu carrinho está vazio",
+      "description": "Comece a adicionar serviços incríveis ao seu carrinho!",
+      "browseServices": "Explorar Serviços"
+    },
+    "platform": "Plataforma",
+    "link": "Link",
+    "total": "Total",
+    "clearCart": "Limpar Carrinho",
+    "verification": "Por favor, verifique todos os detalhes do pedido antes de proceder ao pagamento. Certifique-se de que os links e quantidades estão corretos para cada serviço.",
+    "checkout": "Prosseguir para Pagamento"
+  },
+  "testimonials": {
+    "title": "Eles tiveram sucesso com",
+    "subtitle": "Descubra como nossos clientes transformaram sua presença online em sucesso real",
+    "platform": "Plataforma",
+    "growth": "Crescimento",
+    "monthlyEarnings": "Ganhos Mensais",
+    "joinOthers": "Junte-se a mais de 100.000 criadores que já transformaram sua presença online com o Growth",
+    "lastSeen": "Visto há {{value}} {{unit}}"
+  },
+  "time": {
+    "minute_one": "minuto",
+    "minute_other": "minutos",
+    "hour_one": "hora",
+    "hour_other": "horas",
+    "day_one": "dia",
+    "day_other": "dias"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "currency": "Moeda",
+    "selectLanguage": "Selecione seu idioma preferido",
+    "interfaceLanguage": "Idioma da interface",
+    "direction": "Direção do texto",
+    "ltr": "Da esquerda para a direita",
+    "rtl": "Da direita para a esquerda",
+    "save": "Salvar alterações",
+    "reset": "Redefinir",
+    "settingsUpdated": "Configurações atualizadas com sucesso!"
+  }
+}

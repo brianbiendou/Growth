@@ -1,0 +1,94 @@
+{
+  "common": {
+    "growth": "Growth",
+    "newOrder": "New Order",
+    "contact": "Contact",
+    "cart": "Cart",
+    "tutorials": "Tutorials",
+    "settings": "Settings",
+    "platforms": {
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "spotify": "Spotify",
+      "twitch": "Twitch",
+      "discord": "Discord",
+      "snapchat": "Snapchat",
+      "telegram": "Telegram",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "tiktok": "TikTok"
+    }
+  },
+  "home": {
+    "title": "Boost your social media presence with",
+    "subtitle": "Get real followers, likes, and engagement for your social media accounts",
+    "whyChooseUs": "Why choose us?",
+    "stats": {
+      "completedOrders": "completed orders",
+      "support": "support",
+      "rating": "rating",
+      "freeServices": "Free services",
+      "qualityServices": "Quality and cheap services",
+      "happyCustomers": "happy customers"
+    }
+  },
+  "newOrder": {
+    "title": "New Order",
+    "selectPlatform": "Select your preferred platform",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "service": "Service",
+    "selectService": "Select a service",
+    "link": "Link",
+    "enterLink": "Enter your link",
+    "quantity": "Quantity",
+    "charge": "Total Charge",
+    "addToCart": "Add to Cart",
+    "viewCart": "View Cart",
+    "addedSuccess": "Added to cart successfully!"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "description": "Start adding some amazing services to your cart!",
+      "browseServices": "Browse Services"
+    },
+    "platform": "Platform",
+    "link": "Link",
+    "total": "Total",
+    "clearCart": "Clear Cart",
+    "verification": "Please verify all order details before proceeding to checkout. Make sure the links and quantities are correct for each service.",
+    "checkout": "Proceed to Checkout"
+  },
+  "testimonials": {
+    "title": "They succeeded with",
+    "subtitle": "Discover how our clients transformed their online presence into real success",
+    "platform": "Platform",
+    "growth": "Growth",
+    "monthlyEarnings": "Monthly Earnings",
+    "joinOthers": "Join over 100,000 creators who have already transformed their online presence with Growth",
+    "lastSeen": "Last seen {{value}} {{unit}} ago"
+  },
+  "time": {
+    "minute_one": "minute",
+    "minute_other": "minutes",
+    "hour_one": "hour",
+    "hour_other": "hours",
+    "day_one": "day",
+    "day_other": "days"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "selectLanguage": "Select your preferred language",
+    "interfaceLanguage": "Interface Language",
+    "direction": "Text Direction",
+    "ltr": "Left to Right",
+    "rtl": "Right to Left",
+    "save": "Save Changes",
+    "reset": "Reset to Default",
+    "settingsUpdated": "Settings updated successfully!"
+  }
+}

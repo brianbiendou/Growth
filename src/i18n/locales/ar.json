@@ -1,0 +1,82 @@
+{
+  "common": {
+    "growth": "النمو",
+    "newOrder": "طلب جديد",
+    "contact": "اتصل بنا",
+    "cart": "السلة",
+    "tutorials": "الدروس",
+    "settings": "الإعدادات"
+  },
+  "home": {
+    "title": "عزز تواجدك على وسائل التواصل الاجتماعي مع",
+    "subtitle": "احصل على متابعين حقيقيين، إعجابات وتفاعل لحساباتك على وسائل التواصل الاجتماعي",
+    "whyChooseUs": "لماذا تختارنا؟",
+    "stats": {
+      "completedOrders": "طلبات مكتملة",
+      "support": "دعم",
+      "rating": "تقييم",
+      "freeServices": "خدمات مجانية",
+      "qualityServices": "خدمات عالية الجودة وبأسعار معقولة",
+      "happyCustomers": "عملاء سعداء"
+    }
+  },
+  "newOrder": {
+    "title": "طلب جديد",
+    "selectPlatform": "اختر منصتك المفضلة",
+    "category": "الفئة",
+    "selectCategory": "اختر فئة",
+    "service": "الخدمة",
+    "selectService": "اختر خدمة",
+    "link": "الرابط",
+    "enterLink": "أدخل الرابط الخاص بك",
+    "quantity": "الكمية",
+    "charge": "المبلغ الإجمالي",
+    "addToCart": "أضف إلى السلة",
+    "viewCart": "عرض السلة",
+    "addedSuccess": "تمت الإضافة إلى السلة بنجاح!"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": {
+      "title": "سلة التسوق فارغة",
+      "description": "ابدأ بإضافة خدمات رائعة إلى سلتك!",
+      "browseServices": "تصفح الخدمات"
+    },
+    "platform": "المنصة",
+    "link": "الرابط",
+    "total": "المجموع",
+    "clearCart": "تفريغ السلة",
+    "verification": "يرجى التحقق من جميع تفاصيل الطلب قبل المتابعة للدفع. تأكد من صحة الروابط والكميات لكل خدمة.",
+    "checkout": "متابعة الدفع"
+  },
+  "testimonials": {
+    "title": "نجحوا مع",
+    "subtitle": "اكتشف كيف حول عملاؤنا تواجدهم على الإنترنت إلى نجاح حقيقي",
+    "platform": "المنصة",
+    "growth": "النمو",
+    "monthlyEarnings": "الأرباح الشهرية",
+    "joinOthers": "انضم إلى أكثر من 100,000 منشئ محتوى قاموا بالفعل بتحويل تواجدهم على الإنترنت مع Growth",
+    "lastSeen": "شوهد منذ {{value}} {{unit}}"
+  },
+  "time": {
+    "minute_one": "دقيقة",
+    "minute_other": "دقائق",
+    "hour_one": "ساعة",
+    "hour_other": "ساعات",
+    "day_one": "يوم",
+    "day_other": "أيام"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "currency": "العملة",
+    "selectLanguage": "اختر لغتك المفضلة",
+    "interfaceLanguage": "لغة الواجهة",
+    "direction": "اتجاه النص",
+    "ltr": "من اليسار إلى اليمين",
+    "rtl": "من اليمين إلى اليسار",
+    "save": "حفظ التغييرات",
+    "reset": "إعادة التعيين",
+    "settingsUpdated": "تم تحديث الإعدادات بنجاح!"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "common": {
+    "growth": "Growth",
+    "newOrder": "Nouvelle Commande",
+    "contact": "Contact",
+    "cart": "Panier",
+    "tutorials": "Tutoriels",
+    "settings": "Paramètres",
+    "platforms": {
+      "instagram": "Instagram",
+      "spotify": "Spotify",
+      "twitch": "Twitch",
+      "discord": "Discord",
+      "snapchat": "Snapchat",
+      "telegram": "Telegram",
+      "youtube": "YouTube",
+      "facebook": "Facebook",
+      "tiktok": "TikTok"
+    }
+  },
+  "home": {
+    "title": "Boostez votre présence sur les réseaux sociaux avec",
+    "subtitle": "Obtenez de vrais followers, likes et engagement pour vos comptes sociaux",
+    "whyChooseUs": "Pourquoi nous choisir ?",
+    "stats": {
+      "completedOrders": "commandes complétées",
+      "support": "support",
+      "rating": "note",
+      "freeServices": "Services gratuits",
+      "qualityServices": "Services de qualité à petit prix",
+      "happyCustomers": "clients satisfaits"
+    }
+  },
+  "newOrder": {
+    "title": "Nouvelle Commande",
+    "selectPlatform": "Sélectionnez votre plateforme préférée",
+    "category": "Catégorie",
+    "selectCategory": "Sélectionnez une catégorie",
+    "service": "Service",
+    "selectService": "Sélectionnez un service",
+    "link": "Lien",
+    "enterLink": "Entrez votre lien",
+    "quantity": "Quantité",
+    "charge": "Montant Total",
+    "addToCart": "Ajouter au Panier",
+    "viewCart": "Voir le Panier",
+    "addedSuccess": "Ajouté au panier avec succès !"
+  },
+  "cart": {
+    "title": "Panier d'Achat",
+    "empty": {
+      "title": "Votre panier est vide",
+      "description": "Commencez à ajouter des services incroyables à votre panier !",
+      "browseServices": "Parcourir les Services"
+    },
+    "platform": "Plateforme",
+    "link": "Lien",
+    "total": "Total",
+    "clearCart": "Vider le Panier",
+    "verification": "Veuillez vérifier tous les détails de la commande avant de procéder au paiement. Assurez-vous que les liens et les quantités sont corrects pour chaque service.",
+    "checkout": "Procéder au Paiement",
+    "processing": "Traitement en cours..."
+  },
+  "success": {
+    "title": "Paiement réussi !",
+    "message": "Merci pour votre commande. Nous commençons à traiter vos services immédiatement.",
+    "backToServices": "Retour aux services"
+  },
+  "testimonials": {
+    "title": "Ils ont réussi avec",
+    "subtitle": "Découvrez comment nos clients ont transformé leur présence en ligne en véritable succès",
+    "platform": "Plateforme",
+    "growth": "Croissance",
+    "monthlyEarnings": "Revenus Mensuels",
+    "joinOthers": "Rejoignez plus de 100 000 créateurs qui ont déjà transformé leur présence en ligne avec Growth",
+    "lastSeen": "Vu il y a {{value}} {{unit}}"
+  },
+  "time": {
+    "minute_one": "minute",
+    "minute_other": "minutes",
+    "hour_one": "heure",
+    "hour_other": "heures",
+    "day_one": "jour",
+    "day_other": "jours"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "currency": "Devise",
+    "selectLanguage": "Sélectionnez votre langue préférée",
+    "interfaceLanguage": "Langue de l'interface",
+    "direction": "Direction du texte",
+    "ltr": "De gauche à droite",
+    "rtl": "De droite à gauche",
+    "save": "Enregistrer les modifications",
+    "reset": "Réinitialiser",
+    "settingsUpdated": "Paramètres mis à jour avec succès !"
+  }
+}
