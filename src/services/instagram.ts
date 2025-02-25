@@ -418,7 +418,7 @@ export const instagramServices = {
         {
           id: '775',
           name: 'Instagram Video Views | Fast',
-          maxQuantity: 2147483647,
+          maxQuantity: 1000000,
           minQuantity: 50,
           speed: 'Fast',
           price: 10,

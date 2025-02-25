@@ -20,13 +20,13 @@ export const youtubeServices = {
       services: [
         { id: '616', name: 'Youtube Video Views | Max 3K | Slow', maxQuantity: 3000, minQuantity: 100, speed: 'Slow', price: 900, time: '2h 52min', emoji: '👀 🐌' ,
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working'},
-        { id: '803', name: 'Youtube Video Views | Min 3K | Fast', maxQuantity: 10000000, minQuantity: 3000, speed: 'Fast', price: 670, time: '14h 12min', emoji: '👀 ⚡️',
+        { id: '803', name: 'Youtube Video Views | Min 3K | Fast', maxQuantity: 1000000, minQuantity: 3000, speed: 'Fast', price: 670, time: '14h 12min', emoji: '👀 ⚡️',
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working' },
-        { id: '804', name: 'Youtube Video Views | Min 5K | Fast', maxQuantity: 10000000, minQuantity: 5000, speed: 'Fast', price: 628, time: '31h 19min', emoji: '👀 ⚡️',
+        { id: '804', name: 'Youtube Video Views | Min 5K | Fast', maxQuantity: 1000000, minQuantity: 5000, speed: 'Fast', price: 628, time: '31h 19min', emoji: '👀 ⚡️',
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working' },
-        { id: '772', name: 'Youtube Video Views | Min 10K | Fast', maxQuantity: 10000000, minQuantity: 10000, speed: 'Fast', price: 570, time: '-', emoji: '👀 ⚡️',
+        { id: '772', name: 'Youtube Video Views | Min 10K | Fast', maxQuantity: 1000000, minQuantity: 10000, speed: 'Fast', price: 570, time: '-', emoji: '👀 ⚡️',
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working' },
-        { id: '770', name: 'Youtube Video Views | Min 20K | Fast', maxQuantity: 10000000, minQuantity: 20000, speed: 'Fast', price: 603, time: '-', emoji: '👀 ⚡️',
+        { id: '770', name: 'Youtube Video Views | Min 20K | Fast', maxQuantity: 1000000, minQuantity: 20000, speed: 'Fast', price: 603, time: '-', emoji: '👀 ⚡️',
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working' }
       ]
     },

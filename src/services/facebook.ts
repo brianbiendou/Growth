@@ -43,7 +43,7 @@ export const facebookServices = {
         {
           id: '644',
           name: 'Facebook Video Views | Max 10M | Fast',
-          maxQuantity: 10000000,
+          maxQuantity: 1000000,
           minQuantity: 100,
           speed: 'Fast',
           price: 20,

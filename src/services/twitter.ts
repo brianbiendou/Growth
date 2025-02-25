@@ -43,7 +43,7 @@ export const twitterServices = {
         {
           id: '399',
           name: 'Twitter Tweet Views | Max 100M | Fast',
-          maxQuantity: 2147483647,
+          maxQuantity: 1000000,
           minQuantity: 100,
           speed: 'Fast',
           price: 10,

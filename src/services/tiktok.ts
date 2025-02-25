@@ -20,7 +20,7 @@ export const tiktokServices = {
       id: 'views',
       name: '🎶TikTok: Views',
       services: [
-        { id: '366', name: 'TikTok Video Views | Max 10M | Fast', maxQuantity: 2147483647, minQuantity: 100, speed: 'Fast', price: 30, time: '2min', emoji: '👀⚡',
+        { id: '366', name: 'TikTok Video Views | Max 10M | Fast', maxQuantity: 1000000, minQuantity: 100, speed: 'Fast', price: 30, time: '2min', emoji: '👀⚡',
           description: '✨ Quality: High Quality\n⚡ Speed: Slow\n♻️ No Refill\n📉 Drop Rate: 10-20%\n🔗 Profile Link\n👤 Public Profile Required\n⭐ All Flag Types Working' }
       ]
     },

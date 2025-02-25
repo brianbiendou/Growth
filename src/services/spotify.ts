@@ -9,7 +9,7 @@ export const spotifyServices = {
         {
           id: '97',
           name: 'Spotify Followers | User/Playlist/Artist | MAX 100M',
-          maxQuantity: 100000000,
+          maxQuantity: 1000000,
           minQuantity: 100,
           speed: 'Fast',
           price: 260, // (0.97 * 2.5) * 100 = 600 centimes
@@ -43,7 +43,7 @@ export const spotifyServices = {
         {
           id: '105',
           name: 'Spotify Plays | Max 10M | Slow',
-          maxQuantity: 10000000,
+          maxQuantity: 1000000,
           minQuantity: 500,
           speed: 'Slow',
           price: 499, // (1.91 * 2.5) * 100 = 477 centimes
