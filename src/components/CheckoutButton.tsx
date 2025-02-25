@@ -24,7 +24,7 @@ export function CheckoutButton() {
     const customerName = "Jean Dupont";
 
     try {
-      const response = await fetch("https://servergrowth.onrender.com", {
+      const response = await fetch("https://servergrowth.onrender.com/create-checkout-session", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
